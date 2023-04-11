@@ -1,5 +1,5 @@
 # Landing-Page
 
-membuat sebuah landing page dengan tema dari challenge yang telah dipilih.
+Membuat sebuah landing page dengan tema dari challenge yang telah dipilih.
 
-Link Netlify :
+Link Netlify : https://edoct-landing-page.netlify.app
